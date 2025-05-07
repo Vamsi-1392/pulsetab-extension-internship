@@ -1,7 +1,6 @@
 # pulsetab-extension-internship
 
-Welcome to the **Pulsetab Extension Internship** repository!  
-This repository marks the beginning of an exciting learning journey where we’ll collaboratively build a browser extension using **Angular** for the frontend and **Firebase** for the backend services. It will document individual progress, daily tasks, and collaborative contributions throughout the internship.
+Welcome to the **Pulsetab Extension Internship** repository! This repository marks the beginning of an exciting learning journey where we’ll collaboratively build a browser extension using **Angular** for the frontend and **Firebase** for the backend services. It will document individual progress, daily tasks, and collaborative contributions throughout the internship.
 
 ---
 
