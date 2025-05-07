@@ -61,5 +61,5 @@ This repository serves as a learning and collaboration space for building a brow
 
 - **Frontend(Web Application) Team**
   - [Sanat Malla](https://github.com/Sanat1314)
-  - [V. Sai Vamsi Krishna](https://github.com/Vamsi-13 92)
+  - [V. Sai Vamsi Krishna](https://github.com/vs-vamsi-krishna)
   - [Rishi Samineni](https://github.com/RishiSamineni)
