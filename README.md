@@ -1,15 +1,17 @@
-# pulsetab-extension-internship\
+# pulsetab-extension-internship
 
-Welcome to the *pulsetab-extension-internship* repository!  
-This project is part of my internship journey focused on developing a browser extension. It serves as a dedicated workspace for learning and experimenting with backend technologies that will power the final application.
+Welcome to the **Pulsetab Extension Internship** repository!  
+This repository marks the beginning of an exciting learning journey where we’ll collaboratively build a browser extension using **Angular** for the frontend and **Firebase** for the backend services. It will document individual progress, daily tasks, and collaborative contributions throughout the internship.
 
 ---
 
 ## 🚀 Purpose
 
-This repository is my personal learning ground for exploring and integrating *Firebase technologies* required to develop a fully functional browser extension.
+This repository serves as a central workspace for all interns participating in the development of the PulseTab browser extension. It is intended to:
 
----
+- Track daily learning and contributions
+- Document code, configurations, and design choices
+- Provide a hands-on space to apply web technologies like **HTML**, **CSS**, **Bootstrap**, **Angular**, and **Firebase**\
 
 ## 🧠 Learning Scope
 
@@ -45,12 +47,12 @@ This repository is my personal learning ground for exploring and integrating *Fi
 
 ## 👥 Internship Team
 
-*Backend (Firebase) Team:*
-- Jayadhar Ummadisingu  
-- Sudheer Sahu  
 
-*Frontend (Web Application) Team:*
-- Sanat Malla  
-- V. Sai Vamsi Krishna  
-- Rishi Samineni  
--
+- **Backend(Firebase) Team**
+  - [Jayadhar Ummadisingu](https://github.com/U-Jayadhar)
+  - [Sudheer Sahu](https://github.com/SUDHEERSAHU-123)
+
+- **Frontend(Web Application) Team**
+  - [Sanat Malla](https://github.com/Sanat1314)
+  - [V. Sai Vamsi Krishna](https://github.com/Vamsi-1392)
+  - [Rishi Samineni](https://github.com/RishiSamineni)
