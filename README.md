@@ -7,11 +7,8 @@ This repository marks the beginning of an exciting learning journey where we’l
 
 ## 🚀 Purpose
 
-This repository serves as a central workspace for all interns participating in the development of the PulseTab browser extension. It is intended to:
+This repository serves as a learning and collaboration space for building a browser extension using Angular and Firebase. It tracks our daily progress, hosts setup tasks, and supports the development of frontend and backend features required for the final application.
 
-- Track daily learning and contributions
-- Document code, configurations, and design choices
-- Provide a hands-on space to apply web technologies like **HTML**, **CSS**, **Bootstrap**, **Angular**, and **Firebase**\
 
 ## 🧠 Learning Scope
 
